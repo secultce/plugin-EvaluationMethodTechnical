@@ -1,3 +1,9 @@
+/*ajuste na largura do form*/
+.technical-evaluation-form.ng-scope {
+   width: 90%;
+}
+
+
 .technical-evaluation-configuration .btn {
     margin-left:10px;
 }
